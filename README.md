@@ -78,6 +78,7 @@ void loop(){
 
 # Observation
 <img width="1532" height="733" alt="image" src="https://github.com/user-attachments/assets/fcafac1e-296d-46af-9a1e-b8948bbd1cf9" />
+<img width="731" height="1600" alt="WhatsApp Image 2026-09-26 at 10 35 31 AM" src="https://github.com/user-attachments/assets/a9a95ea0-4bbc-4d1b-9183-49059e74d3af" />
 
 
 # Result
